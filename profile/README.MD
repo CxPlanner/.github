@@ -2,7 +2,7 @@
 
 *CxPlanner - you project management tool with specialized utilities for commissioning, QA and construction*
 
-<img src="../public/images/background-CxPlanner-large.jpg" alt="CxPlanner - project management software">
+<img src="https://raw.githubusercontent.com/CxPlanner/.github/97e4a0a7024c84e027fa1ad23c1c4dc2410ec9c4/public/images/background-CxPlanner-large.jpg" alt="CxPlanner - project management software">
 
 ____
 
@@ -43,4 +43,4 @@ Our main location is Denmark, but our software is available at Danish, English, 
 
 Visit us at [CxPlanner.com](https://cxplanner.com) to try our software or see more.
 
-<img src="../public/images/background-CxPlanner-std.jpg" alt="CxPlanner on mobile devices">
+<img src="https://raw.githubusercontent.com/CxPlanner/.github/main/public/images/background-CxPlanner-std.jpg" alt="CxPlanner on mobile devices">
