@@ -31,16 +31,16 @@ The main code is closed source and developed internally in CxPlanner. But we do 
 
 Most of our open source projects are currently located at [ThomasTJdev](https://github.com/ThomasTJdev), but will be moved to our organizational repo in the future.
 
-We are all happy [Nim-lang](https://nim-lang.org/) coders, and we would like to encourage any new or experienced programmer to take Nim for A run. Fast, Efficient, Python like syntax, Elegant, C-speed, and much more.
+We are all happy [Nim-lang](https://nim-lang.org/) coders, and we would like to encourage any new or experienced programmer to take Nim for a run. Fast, Efficient, Python like syntax, Elegant, C-speed, and much more.
 
 
 # Locations
 
-Our main location is Denmark, but our software is available at Danish, English, Spanish and Dutch. We do have supporters and sellers in those locations, so just send us an email at support@cxplanner.com for more information.
+Our main location is Denmark, but our software is available at Danish, English, Spanish, Dutch and German. We do have supporters and sellers in those locations, so just send us an email at support@cxplanner.com for more information.
 
 # Website
 
 
-Visit us at [CxPlanner.com](https://cxplanner.com) to try our software or see more.
+Visit us at [CxPlanner.com](https://cxplanner.com) to try our software and see more.
 
 <img src="https://raw.githubusercontent.com/CxPlanner/.github/main/public/images/background-CxPlanner-std.jpg" alt="CxPlanner on mobile devices">
