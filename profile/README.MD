@@ -57,5 +57,3 @@ so just send us an email at support@cxplanner.com for more information.
 # Website
 
 Visit us at [CxPlanner.com](https://cxplanner.com) to try our software or see more.
-
-<img src="public/images/background-CxPlanner-std.jpg" alt="CxPlanner on mobile devices">
