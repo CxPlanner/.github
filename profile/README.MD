@@ -2,7 +2,7 @@
 
 *CxPlanner - CxPlanner manages your commissioning projects in one place. Commissioning. Time schedule. Inspections. Punch lists. Quality assurance.*
 
-<img src="public/images/iPhone13-triple-commissioning-overview-EN.png" alt="CxPlanner - Commissioning management software">
+<img src="https://cxplanner.com/images/logo/CxPlanner_logo_black_brightBlue.svg" alt="CxPlanner - Commissioning management software">
 
 ____
 
